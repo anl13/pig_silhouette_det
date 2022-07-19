@@ -6,9 +6,9 @@ An, L., Ren, J., Yu, T., Hai, T., Jia, Y., &Liu, Y. Three-dimensional surface mo
 [[project]()] [[paper]()]
 
 <p float="center">
-  <img src="pics/cam0_000000.jpg" width="400" />
-  <img src="pics/cam6_000000.jpg" width="400" /> 
-  <img src="pics/cam11_000000.jpg" width="400" />
+  <img src="pics/cam0_000000.jpg" width="260" />
+  <img src="pics/cam6_000000.jpg" width="260" /> 
+  <img src="pics/cam11_000000.jpg" width="260" />
 </p>
 
 Other related repositories: 
